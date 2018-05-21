@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "KARIN WOLKEN"
+title = "K W"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -251,14 +251,13 @@ enableGitInfo = false
     link = "//www.linkedin.com/in/karin-wolken-5b8241b4"
 
   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//www.linkedin.com/in/karin-wolken-5b8241b4"
-
-  [[params.social]]
     icon = "calendar-alt"
     icon_pack = "fa"
-    link = "https://calendar.google.com/calendar/b/2?cid=d29sa2Vua0BvcmVnb25zdGF0ZS5lZHU"
+    link = "//calendar.google.com/calendar/b/2?cid=d29sa2Vua0BvcmVnb25zdGF0ZS5lZHU"
+   [[params.social]]
+    icon = "calendar"
+    icon_pack = "fa"
+    link = "//calendar.google.com/calendar/b/2?cid=d29sa2Vua0BvcmVnb25zdGF0ZS5lZHU"
    
 
 # Navigation Links
