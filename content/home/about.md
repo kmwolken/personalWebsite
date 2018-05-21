@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "MS in Forest Biometrics"
   institution = "Oregon State University"
-  year = in progress
+  year = 2019
 
 [[education.courses]]
   course = "BS in Forestry"
