@@ -255,6 +255,12 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//calendar.google.com/calendar/b/2?cid=d29sa2Vua0BvcmVnb25zdGF0ZS5lZHU"
    
+   [[params.social]]
+    icon = "folder-open"
+    icon_pack = "fa"
+    link = "//seelio.com/kwolken"
+   
+   
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
