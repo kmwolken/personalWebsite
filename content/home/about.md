@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Remote Sensing",
+    "Quantitative Ecology",
+    "Data Science"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,8 +28,7 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Master's student in Oregon State's forest biometrics lab. My research focuses on identifying forest stands for management, employing remote sensing techniques to expand the reach and influence of traditional plot-based data acquisition. My goals are to develop knowledge and experience of environmental applciations of R, remote sensing, and 'big data'. I am determined to learn how to integrate these components in a manner useful to forest management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
